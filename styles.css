@@ -482,6 +482,6 @@ form input {
 }
 
 body {
-    background: rgb(252, 252, 251);
-    background: linear-gradient(176deg, rgba(252, 252, 251, 1) 0%, rgba(196, 138, 177, 1) 41%, rgba(227, 210, 196, 1) 96%);
+    background: rgb(98, 60, 24);
+    background: linear-gradient(0deg, rgba(98, 60, 24, 1) 0%, rgba(254, 236, 203, 1) 85%, rgba(254, 254, 254, 1) 100%);
 }
